@@ -157,3 +157,162 @@
     text-decoration: none;
     color: white;
 }
+
+/* NEW-OFFER SECTION */
+
+.new-offer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
+    margin: 0px auto;
+    width: 1320px;
+    min-height: 482px;
+    align-items: center;
+}
+
+.column-3{
+    width: 393px;
+    min-height: 255px;
+}
+
+.offer-title{
+    font-size: 24px;
+    color: #FF0000;
+    font-weight: 400;
+}
+
+.offer-entitle{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.offer-des{
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+}
+
+.column-4{
+    border: 15px solid #FF0000;
+    align-items: center;
+    width: 338px;
+    height: 338px;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.column-4 img{
+    width: 340px;
+    height: 340px;
+}
+
+.column-5{
+    width: 276px;
+    height: 360px;
+}
+
+.year-offer{
+    font-size: 48px;
+    color: #FF0000;
+}
+
+.year-des{
+    font-size: 20;
+    font-weight: 400;
+    color: rgba(7, 2, 17, 0.6);
+}
+
+/* HOLIDAY SECTION */
+
+.holiday{
+    width: 1320px;
+    min-height: 986.07px;
+    margin: 0px auto;
+    margin-top: 120px;
+    text-align: center;
+}
+
+.holiday-title{
+    font-size: 24px;
+    color: rgba(7, 2, 17, 1);
+    font-weight: 600;
+}
+
+.sale-title{
+    font-size: 72px;
+    font-weight: bold;
+}
+
+.holiday-des{
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+    padding: 0px 301px;
+}
+
+.holiday-pic{
+    margin-top: 64px;
+    width: 1320px;
+    height: 662.07px;
+    background-image:url(images/Group\ 75.png),url(images/Group\ 44.png),url(images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom left,top right,bottom;
+}
+
+/* BEST-GIFTS-SECTION */
+
+.best-gifts{
+    margin: 0px auto;
+    margin-top: 120px;
+    width: 1320px;
+    height: 1163px;
+}
+
+.gift-title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #FF0000;
+}
+
+.gift-entitle{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.gift-des{
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6)60%;
+}
+
+.gift-pic img{
+    display: inline;
+    width: 413px;
+    height: 420px;  
+    margin: 12px 12px 12px 0px; 
+}
+
+.subscribe{
+    margin: 0px auto;
+    margin-top: 120px;
+    width: 1320px;
+    height: 616px;
+    text-align: center;
+    background: rgba(255, 0, 0, 0.05)5%;
+    border-radius: 16px;
+    
+}
+
+.subs-title{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.subs-des{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(7, 2, 17, 0.6)%;
+    margin: 48px 212px;
+}
+
+.subs{
+    /* margin: 80px 212px ; */
+    margin-top: 80px;
+}
